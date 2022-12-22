@@ -8,4 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=ffffff)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=JetBrains&logoColor=ffffff)
+![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=ffffff)
 <br/>
